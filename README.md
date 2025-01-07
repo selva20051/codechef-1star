@@ -57,7 +57,7 @@ The repository includes solutions to problems covering topics like:
 - Python
 
 
-```
+
 
 ## Contributing
 
@@ -78,3 +78,5 @@ These solutions are my attempts at solving CodeChef problems. Please try to solv
 ---
 CodeChef Profile: [manuqlly]
 Last Updated: [07/01/2025]
+
+```
